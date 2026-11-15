@@ -45,8 +45,7 @@ local VoidDevAdmins = {
 	["xslimbot1"] = true,
 	["carxboy16"] = true,
 	["carxbot16"] = true,
-	["thothawasi"] = true,
-	["thorhawasi"] = true,
+	
 }
 
 -- 2. VOID ADMINS (Staff: FULL ADMIN + VOID ADMIN ROLE TAG)
@@ -64,7 +63,7 @@ local VoidDevTagUsers = {
 	["thothawasi"] = true,
 	["thorhawasi"] = true,
 	-- Just put player usernames here to give them VOID DEV Tag (THEY WILL NOT GET ADMIN):
-	-- ["username_here"] = true,
+	 ["thorhawasi"] = true,
 }
 
 getgenv().VoidDevAdmins = VoidDevAdmins
@@ -773,8 +772,8 @@ do
 					titleColor = "#ffffff",
 					titleColor2 = "#a855f7",
 				},
-				kyripaglu = {
-					customName = "PAPA",
+				TESTERSCRIPTHU = {
+					customName = "PAPA|BOT",
 					type = "gif",
 					imageUrl = "https://raw.githubusercontent.com/hor1zencodes/gif-tags/main/rudra",
 					gifConfig = {
