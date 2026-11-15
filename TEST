@@ -60,7 +60,7 @@ local VoidAdmins = {
 -- 3. VOID DEV TAG (SEPARATE ROLE: Put any username here to give them VOID DEV TAG - NO ADMIN)
 local VoidDevTagUsers = {
 	-- Just put player usernames here to give them VOID DEV Tag (THEY WILL NOT GET ADMIN):
-	-- ["username_here"] = true,
+	-- ["thorhawasi"] = true,
 }
 
 getgenv().VoidDevAdmins = VoidDevAdmins
